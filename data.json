@@ -74,13 +74,6 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "Welcome Bonus 150% + 200 gratis spins tot 2.000€",
-          "Name": "Welcome Bonus 150% + 200 gratis spins tot 2.000€",
-          "logo_alt": "Welcome Bonus"
-        },
-        {
-          "link": "/play/",
           "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
           "name": "Weekly Cashback Up to 15% Net Loss Refund",
           "Name": "Weekly Cashback Up to 15% Net Loss Refund",
@@ -331,13 +324,6 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-      "name": "Welcome Bonus 150% + 200 gratis spins tot 2.000€",
-      "Name": "Welcome Bonus 150% + 200 gratis spins tot 2.000€",
-      "logo_alt": "Welcome Bonus"
-    },
-    {
-      "link": "/play/",
       "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
       "name": "Weekly Cashback Up to 15% Net Loss Refund",
       "Name": "Weekly Cashback Up to 15% Net Loss Refund",
@@ -381,10 +367,10 @@
       "question": "What games can I play with my welcome bonus?"
     }
   ],
-  "_generated_at": "2026-09-15T10:24:24.818Z",
+  "_generated_at": "2026-09-15T10:25:50.626Z",
   "_version": "1.0.0",
   "html_head_alt": "pawnbet baner",
   "content_alt": "pawnbet slot",
-  "_last_deploy": "2026-09-15T10:24:25.433Z",
-  "_deploy_trigger": "zlwxff"
+  "_last_deploy": "2026-09-15T10:25:51.178Z",
+  "_deploy_trigger": "niknc8"
 }
