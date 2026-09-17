@@ -22,7 +22,7 @@
       "gptPrompt": "",
       "heroTitle": "Pawnbet Casino Canada",
       "heroSubtitle": "Welcome Bonus",
-      "heroBadge": "Pawnbet Casino — Get Top Bonuses",
+      "heroBadge": "Pawnbet Casino — Play Slots Online",
       "ctaText": "Join Now",
       "tagline": "200% up to CA$1,500 + 200 Free Spins",
       "heroImage": "/uploads/2477cfae776b896d1562dbb8a02d0d9e.webp",
@@ -109,7 +109,7 @@
       "seo_description": "Explore Pawnbet Casino Canada. Discover our top online slots, live dealer tables, payment options, and up to CA$1,500 in welcome bonuses today. ",
       "html_head": "<link rel=\"canonical\" href=\"https://pawnbet-ca.com/en-ca/\">\n<link rel=\"alternate\" href=\"https://pawnbet-ca.com/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://pawnbet-ca.com/en-ca/\" hreflang=\"en-CA\">\n<meta property=\"og:locale\" content=\"en_CA\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Pawnbet Casino Canada 2026: Get a Bonus of Up to CA$1,500 Bonus\">\n<meta property=\"og:description\" content=\"Explore Pawnbet Casino Canada. Discover our top online slots, live dealer tables, payment options, and up to CA$1,500 in welcome bonuses today.\">\n<meta property=\"og:url\" content=\"pawnbet-ca.com\">\n<meta property=\"og:site_name\" content= \"Pawnbet Casino\">\n<meta property=\"og:image\" content=\"https://pawnbet-ca.com//uploads/2477cfae776b896d1562dbb8a02d0d9e.webp\">",
       "faq_title": "FAQ",
-      "hero_badge": "Pawnbet Casino — Get Top Bonuses",
+      "hero_badge": "Pawnbet Casino — Play Slots Online",
       "cta_text": "Join Now",
       "content_alt": "pawnbet slot",
       "htmlHead_alt": "pawnbet baner",
@@ -170,7 +170,7 @@
   "redirect_site": null,
   "hero_title": "Pawnbet Casino Canada",
   "hero_subtitle": "Welcome Bonus",
-  "hero_badge": "Pawnbet Casino — Get Top Bonuses",
+  "hero_badge": "Pawnbet Casino — Play Slots Online",
   "cta_text": "Join Now",
   "tagline": "200% up to CA$1,500 + 200 Free Spins",
   "features_list": null,
@@ -354,10 +354,10 @@
       "question": "What games can I play with my welcome bonus?"
     }
   ],
-  "_generated_at": "2026-09-17T09:08:44.330Z",
+  "_generated_at": "2026-09-17T11:38:02.044Z",
   "_version": "1.0.0",
   "html_head_alt": "pawnbet baner",
   "content_alt": "pawnbet slot",
-  "_last_deploy": "2026-09-17T09:08:44.967Z",
-  "_deploy_trigger": "sd59g7"
+  "_last_deploy": "2026-09-17T11:38:02.661Z",
+  "_deploy_trigger": "fqti29"
 }
